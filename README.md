@@ -1,43 +1,5 @@
 # yeahyeahassan.github.io
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tanvir's Blog and Connect</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f0f8ff;
-      margin: 0;
-      padding: 20px;
-    }
-    h1, h2 {
-      text-align: center;
-      color: #1e90ff;
-    }
-    p {
-      text-align: center;
-      font-size: 18px;
-    }
-    a {
-      color: #1e90ff;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    a:hover {
-      color: #4169e1;
-    }
-    ul {
-      list-style-type: none;
-      padding: 0;
-      display: flex;
-      justify-content: center;
-      gap: 20px;
-    }
-    li {
-      font-size: 24px;
-    }
-  </style>
+
 </head>
 <body>
 
