@@ -34,3 +34,8 @@
 
 </body>
 </html>
+
+<!-- Graphical GIF Animation -->
+<div class="gif-container" style="text-align: center; margin-bottom: 20px;">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxuOXVzYW9sb2h1OThkbGo1MG8xcHZweDJnYjd1amp6bzF5YTkxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GyBgRRl0TApaw/giphy.gif" alt="Working on it GIF" />
+</div>
