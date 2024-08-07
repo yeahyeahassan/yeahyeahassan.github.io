@@ -1,5 +1,10 @@
 # yeahyeahassan.github.io
 
+<!-- Graphical GIF Animation -->
+<div class="gif-container" style="text-align: center; margin-bottom: 20px;">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Q0N204bGd5a29paHFrcG5zbmQ5djAycGFsNDJoZ3Rwa3pqd3Q0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" alt="Working on it GIF" />
+</div>
+
 </head>
 <body>
 
