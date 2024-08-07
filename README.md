@@ -48,9 +48,9 @@
   </div>
 
   <!-- Blog Section -->
-  <h1>📘 My Blog</h1>
-  <p>I occasionally write about coding, technology, and other topics on <a href="https://tanviruman.hashnode.dev/">Hashnode</a>. Check out my blog posts to stay updated with my latest articles.</p>
-  <p>Feel free to explore and engage with my writings! ✍️</p>
+  <h1>📘 My Works</h1>
+  <p>You can find my engineering projects on <a href="https://github.com/yeahyeahassan">GitHub</a> and also on <a href="https://www.linkedin.com/in/yeahyea-hassan-38bb40287">LinkedIn</a>. Check out my posts to stay updated with my latest projects.</p>
+  <p>Feel free to explore and engage with my projects </p>
 
   <!-- Connect with Me Section -->
   <h2>🌐 Connect with Me</h2>
